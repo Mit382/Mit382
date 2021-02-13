@@ -75,7 +75,7 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=gotham" alt="mitul3737" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mit382&show_icons=true&theme=gotham" alt="mitul3737" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
   
  <!--Adding private contributions count to total commits count
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
@@ -86,7 +86,9 @@
 <!--theme colour change  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitul3737&repo=github-readme-stats)](https://github.com/mitul3737/github-readme-stats)
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mit382&repo=github-readme-stats)](https://github.com/Mit382/github-readme-stats)
+-->
 
 
 ### Blogs posts
@@ -95,11 +97,11 @@
 - [My first open-source contribution at “Hacktoberfest 2020](https://medium.com/@shahriyarmitul3737/my-first-open-source-contribution-at-hacktoberfest-2020-ad82d040a0ad?source=rss-c1edac92734b------2)
 <!-- BLOG-POST-LIST:END -->
 
-
+<!--
 ### Coding Stats
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-
+-->
 
